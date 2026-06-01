@@ -227,7 +227,7 @@ int main()
 }
 ```
 
-## Output:
+## Output:.
 
 <img width="475" height="291" alt="503062588-feb0daa9-8d10-43f7-a525-73cf950872b9" src="https://github.com/user-attachments/assets/05f3ed3f-02a1-4789-8dd6-73d130d35e6d" />
 
